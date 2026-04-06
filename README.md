@@ -37,11 +37,12 @@ focus-tracker-cli/
 │── README.md
 
 ---
-
 ## 📊 Sample Output
-[START] Session started.
-[DONE] Session ended.
-[TIME] 1 hr 20 min 10 sec
+
+![Output](output.png)
+## ⚠️ Note
+File handling may not work in some online compilers.
+Run the program locally for full functionality.
 
 ---
 
