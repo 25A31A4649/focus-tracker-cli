@@ -60,7 +60,7 @@ void viewStats() {
     fclose(file);
 
     printf("[STATS] Total sessions: %d\n", count);
-    printf("[STATS] Total time: %d sec\n", total);
+    printf("[STATS] Total Time: %d sec\n", total);
 }
 
 int main() {
